@@ -5,7 +5,7 @@
 🖥️ **Desenvolvedora Front-End**  
 
 Me chamo **Beatriz Rezio Minervino**, tenho 23 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
-Tenho experiência em desenvolvimento web, lógica de programação e projetos integrados.
+Tenho experiência em desenvolvimento web, lógica de programação e projetos integrados. Formação em Gestão Financeira, tendo anteriormente atuado nos setores financeiro, legal e comercial.
 
 ---
 
